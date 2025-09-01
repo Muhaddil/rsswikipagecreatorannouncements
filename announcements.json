@@ -1,0 +1,36 @@
+{
+  "announcements": [
+    {
+      "id": "nms-wiki-issues",
+      "type": "warning",
+      "title": "Problemas con la Wiki",
+      "message": "La wiki de No Man's Sky está experimentando problemas, por lo que puede que algunas páginas no funcionen.",
+      "link": {
+        "text": "Más información",
+        "url": "https://downdetector.com/status/fandom/"
+      },
+      "active": true,
+      "priority": 1
+    }
+    // {
+    //   "id": "maintenance-notice",
+    //   "type": "info", 
+    //   "title": "Mantenimiento Programado",
+    //   "message": "Habrá mantenimiento el próximo domingo de 2:00 AM a 4:00 AM UTC.",
+    //   "active": true,
+    //   "priority": 2
+    // },
+    // {
+    //   "id": "new-feature",
+    //   "type": "success",
+    //   "title": "Nueva Funcionalidad",
+    //   "message": "¡Hemos agregado nuevas herramientas de búsqueda!",
+    //   "link": {
+    //     "text": "Explorar",
+    //     "url": "/search"
+    //   },
+    //   "active": true,
+    //   "priority": 3
+    // }
+  ]
+}
