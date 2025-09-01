@@ -12,25 +12,5 @@
       "active": true,
       "priority": 1
     }
-    // {
-    //   "id": "maintenance-notice",
-    //   "type": "info", 
-    //   "title": "Mantenimiento Programado",
-    //   "message": "Habrá mantenimiento el próximo domingo de 2:00 AM a 4:00 AM UTC.",
-    //   "active": true,
-    //   "priority": 2
-    // },
-    // {
-    //   "id": "new-feature",
-    //   "type": "success",
-    //   "title": "Nueva Funcionalidad",
-    //   "message": "¡Hemos agregado nuevas herramientas de búsqueda!",
-    //   "link": {
-    //     "text": "Explorar",
-    //     "url": "/search"
-    //   },
-    //   "active": true,
-    //   "priority": 3
-    // }
   ]
 }
