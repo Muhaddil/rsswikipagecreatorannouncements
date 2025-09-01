@@ -1,15 +1,15 @@
 {
   "announcements": [
     {
-      "id": "nms-wiki-issues",
-      "type": "warning",
-      "title": "Problemas con la Wiki",
-      "message": "La wiki de No Man's Sky está experimentando problemas, por lo que puede que algunas páginas no funcionen.",
+      "id": "nms-drops",
+      "type": "info",
+      "title": "Drops de NMS",
+      "message": "Es el último día de los drops de No Man's Sky.",
       "link": {
-        "text": "Más información",
-        "url": "https://downdetector.com/status/fandom/"
+        "text": "Consigue tus drops aquí",
+        "url": "https://www.twitch.tv/oskar1up"
       },
-      "active": false,
+      "active": true,
       "priority": 1
     }
   ]
