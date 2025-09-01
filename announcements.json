@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "nms-servers",
+      "type": "warning",
+      "title": "Servidores de NMS",
+      "message": "Los servidores de No Man's Sky están caídos.",
+      "link": {
+        "text": "Más información aquí",
+        "url": "https://status.nmscd.com/"
+      },
+      "active": true,
+      "priority": 1
+    },
+    {
       "id": "nms-drops",
       "type": "info",
       "title": "Drops de NMS",
@@ -10,7 +22,7 @@
         "url": "https://www.twitch.tv/oskar1up"
       },
       "active": true,
-      "priority": 1
+      "priority": 2
     }
   ]
 }
