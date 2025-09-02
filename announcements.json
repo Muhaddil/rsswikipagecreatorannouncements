@@ -21,7 +21,7 @@
         "text": "Consigue tus drops aquí",
         "url": "https://www.twitch.tv/oskar1up"
       },
-      "active": true,
+      "active": false,
       "priority": 2
     }
   ]
